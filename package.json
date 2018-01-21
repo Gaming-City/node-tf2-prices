@@ -1,0 +1,19 @@
+{
+  "name": "tf2-prices",
+  "version": "1.0.0",
+  "description": "Get prices for TF2 items",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nicklason/node-tf2-prices.git"
+  },
+  "author": "Nicklas Marc Pedersen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nicklason/node-tf2-prices/issues"
+  },
+  "homepage": "https://github.com/Nicklason/node-tf2-prices#readme"
+}
