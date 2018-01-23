@@ -1,4 +1,4 @@
-var TF2Prices = require('./index.js');
+var TF2Prices = require('../index.js');
 var fs = require('fs');
 
 var options = {
