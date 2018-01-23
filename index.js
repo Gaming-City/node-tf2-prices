@@ -1,12 +1,5 @@
 'use strict';
 
-/*
-Todo:
- - Update currencies / prices when requesting it.
- - Check for prices that has changed.
-
-*/
-
 const request = require('request');
 
 module.exports = Prices;
